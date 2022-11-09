@@ -26,6 +26,7 @@
   background-color: #393f4d;
   display: grid;
   grid-area: header;
+  grid-template-columns: auto auto;
 }
 
 ul {
