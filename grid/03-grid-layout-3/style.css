@@ -105,6 +105,8 @@
   color: black;
   text-align: center;
   height: 200px;
+  display: grid;
+  gap: 1px;
 }
 
 .card p {
